@@ -4,7 +4,7 @@
 - 🔭 Buscando oportunidade de trabalho como Front-end
 - 📚 Atualmente estudando React
 - 🎮 Hobby GameDev Unity
-- ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia</a>
+- ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia</a>e <a href="https://www.origamid.com/">Origamid</a>
 - 👀 <a href="https://brunoxavier.vercel.app/">Meu Portfolio</a>
 
 <div>
@@ -15,7 +15,7 @@
   
 <div style="display: inline_block"></br>
   <img aling="center" alt="Bruno-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img aling="center" alt="Bruno-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>  
+  <img aling="center" alt="Bruno-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img aling="center" alt="Bruno-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img aling="center" alt="Bruno-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img aling="center" alt="Bruno-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
