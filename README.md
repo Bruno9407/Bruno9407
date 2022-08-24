@@ -4,7 +4,7 @@
 - 🔭 Buscando oportunidade de trabalho como Front-end
 - 📚 Atualmente estudando React
 - 🎮 Hobby GameDev Unity
-- ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia</a>e <a href="https://www.origamid.com/">Origamid</a>
+- ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia </a>e <a href="https://www.origamid.com/">Origamid</a>
 - 👀 <a href="https://brunoxavier.vercel.app/">Meu Portfolio</a>
 
 <div>
