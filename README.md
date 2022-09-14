@@ -1,11 +1,12 @@
 ## Olá! Meu nome é Bruno Xavier, seja bem vindo!!! 😄
 
 
-- 🔭 Buscando oportunidade de trabalho como Front-end
-- 📚 Atualmente estudando React
-- 🎮 Hobby GameDev Unity
-- ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia </a>e <a href="https://www.origamid.com/">Origamid</a>
-- 👀 <a href="https://brunoxavier.vercel.app/">Meu Portfolio</a>
+- 🔭 Buscando oportunidade de trabalho como Front-end.
+- 📚 Atualmente estudando React.
+- 🎮 Hobby GameDev Unity.
+- ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia </a>e <a href="https://www.origamid.com/">Origamid</a>.
+- 👀 Novo <a href="https://bruno9407.github.io/Portifolio/">portfolio</a> com html, css e Javascript.
+- 👀 Antigo <a href="https://brunoxavier.vercel.app/">Portfolio</a> em React.
 
 <div>
   <a href="https://github.com/Bruno9407">
