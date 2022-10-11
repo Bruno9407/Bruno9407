@@ -3,7 +3,7 @@
 
 - 🔭 Buscando oportunidade de trabalho.
 - 📚 Atualmente estudando Ciência da Computação na Fumec.
-- 🎮 Hobby GameDev Unity.
+- 🎮 Hobbies GameDev Unity e data science.
 - ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia </a>e <a href="https://www.origamid.com/">Origamid</a>.
 - 👀 Novo <a href="https://bruno9407.github.io/Portifolio/">portfolio</a> com html, css e Javascript.
 - 👀 Antigo <a href="https://brunoxavier.vercel.app/">Portfolio</a> em React.
