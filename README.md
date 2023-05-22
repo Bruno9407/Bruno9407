@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Bruno Xavier, seja bem vindo!!! 😄
 
 
-- 🔭 Buscando oportunidade de trabalho.
+- 🔭 Estágio na Prefeitura de Belo Horizonte.
 - 📚 Atualmente estudando Ciência da Computação na Fumec.
 - 🎮 Hobbies GameDev Unity e data science / AI.
 - ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia </a>e <a href="https://www.origamid.com/">Origamid</a>.
