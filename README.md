@@ -1,4 +1,4 @@
-## Olá! Meu nome é Bruno Xavier, seja bem vindo!!! 😄
+## Olá! Meu nome é Bruno Xavier, seja bem vindo!!!
 
 
 - 🔭 Estágio na Prefeitura de Belo Horizonte.
@@ -6,7 +6,6 @@
 - 🎮 Hobbies GameDev Unity e data science / AI.
 - ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia </a>e <a href="https://www.origamid.com/">Origamid</a>.
 - 👀 Novo <a href="https://bruno9407.github.io/Portifolio/">portfolio</a> com html, css e Javascript.
-- 👀 Antigo <a href="https://brunoxavier.vercel.app/">Portfolio</a> em React.
 
 <div>
   <a href="https://github.com/Bruno9407">
