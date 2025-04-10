@@ -8,11 +8,11 @@
 <div>
   <h2>Git stats</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno9407&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno9407&layout=donut&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno9407&layout=donut&langs_count=5&theme=dark"/>
 </div>
   
 <div style="display:inline-block;">
-  <h2>Main technologies</h2>
+  <h2 style="text-align:center;">Main technologies</h2>
   <div style="margin:auto;">
     <img aling="center" alt="Bruno-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
     <img aling="center" alt="Bruno-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -33,5 +33,5 @@
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a> -->
 </div>
 
-<!-- ![Snake animation](https://github.com/Xavier9407/Xavier9407/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Xavier9407/Xavier9407/blob/output/github-contribution-grid-snake.svg)
 
