@@ -4,6 +4,7 @@
 - 📚 Pursuing a degree in computer science at Fumec university 5/8.
 - ⚡ I'am currently trying to improve my full-stack skills to get a international job.
 - 🎮 My hobbies GameDev Unity e data science / AI.
+- 👀 Take a look at my <a href="https://bruno9407.github.io/Porfolio/">portfolio</a>.
 
 <div>
   <h2>Git stats</h2>
